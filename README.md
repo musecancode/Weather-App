@@ -10,7 +10,6 @@ A responsive weather app built with **React**, **Tailwind CSS**, and **OpenWeath
 -  City-based weather search
 -  Live temperature, wind, humidity, and feels-like
 -  Dynamic emoji icons based on weather condition
--  Glassmorphism card UI
 -  Fully responsive layout using Tailwind CSS
 
 
